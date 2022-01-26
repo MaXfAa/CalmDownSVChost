@@ -9,7 +9,7 @@ The problem is that by default, the allocation and functionality of SVCHOST is c
 By adapting the amount of RAM indicated to the splitting of SVCHOST, we optimize its consumption as well as the way in which the various svchost.exe processes are split.
 
 ## How to adapt to the right amount of RAM ?
-1. Download this ZIP file
+1. Download the files (in ZIP) [here](https://github.com/MaXfAa/CalmDownSVChost/releases/download/v1.0/ShrinkSvcHost.zip)
 2. Extract it
 3. Open the folder that corresponds to your amount of RAM
 4. Double-click on the "RUN-THIS" file
