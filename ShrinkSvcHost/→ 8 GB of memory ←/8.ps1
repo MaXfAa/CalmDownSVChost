@@ -1,1 +1,1 @@
-Set-Itemproperty -path 'HKLM:\SYSTEM\CurrentControlSet\Control' -Name 'SvcHostSplitThresholdInKB' -value '16384'
+Set-Itemproperty -path 'HKLM:\SYSTEM\CurrentControlSet\Control' -Name 'SvcHostSplitThresholdInKB' -value '32768'
