@@ -15,10 +15,10 @@ By adapting the amount of RAM indicated to the splitting of SVCHOST, we optimize
 4. Double-click on the "RUN-THIS" file
 5. It's done !
 
-#
-#
-#
-#
+#####
+#####
+#####
+#####
 
 _More info about SvcHost:_
 
