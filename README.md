@@ -1,4 +1,4 @@
-# CalmDownSVChost
+# Calm down SvcHost !
 Shrink the amount of svchost.exe by adapting it to your real volume of RAM.
 
 ## What's SVCHOST ?
