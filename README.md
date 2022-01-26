@@ -16,7 +16,6 @@ By adapting the amount of RAM indicated to the splitting of SVCHOST, we optimize
 5. It's done !
 
 
-*More info about SvcHost:
+_More info about SvcHost:
 [svchost.exe's Wikipedia](https://en.wikipedia.org/wiki/Svchost)
-
-*["Why Many Svchost.exe are Running in Windows ?" - Article](https://winaero.com/blog/why-many-svchost-exe-are-running-in-windows-10-creators-update)*
+["Why Many Svchost.exe are Running in Windows ?" - Article](https://winaero.com/blog/why-many-svchost-exe-are-running-in-windows-10-creators-update)_
