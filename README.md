@@ -17,5 +17,7 @@ By adapting the amount of RAM indicated to the splitting of SVCHOST, we optimize
 
 
 _More info about SvcHost:
-[svchost.exe's Wikipedia](https://en.wikipedia.org/wiki/Svchost)
-["Why Many Svchost.exe are Running in Windows ?" - Article](https://winaero.com/blog/why-many-svchost-exe-are-running-in-windows-10-creators-update)_
+
+_[svchost.exe's Wikipedia](https://en.wikipedia.org/wiki/Svchost)
+
+_["Why Many Svchost.exe are Running in Windows ?" - Article](https://winaero.com/blog/why-many-svchost-exe-are-running-in-windows-10-creators-update)
