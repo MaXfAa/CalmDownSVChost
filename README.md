@@ -14,3 +14,8 @@ By adapting the amount of RAM indicated to the splitting of SVCHOST, we optimize
 3. Open the folder that corresponds to your amount of RAM
 4. Double-click on the "RUN-THIS" file
 5. It's done !
+
+
+*More info about SvcHost:
+[svchost.exe's Wikipedia](https://en.wikipedia.org/wiki/Svchost)
+["Why Many Svchost.exe are Running in Windows ?" - Article](https://winaero.com/blog/why-many-svchost-exe-are-running-in-windows-10-creators-update) *
